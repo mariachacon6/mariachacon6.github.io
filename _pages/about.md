@@ -6,7 +6,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="display:flex; gap:15px; justify-content:center; flex-wrap:wrap; margin-bottom:30px;">
 
+  <a href="/research/" style="text-decoration:none; text-align:center;">
+    <img src="/images/research.jpg"
+         alt="Research"
+         style="width:240px; height:170px; object-fit:cover; border-radius:12px;">
+    <p><strong>Research</strong></p>
+  </a>
+
+  <a href="/publications/" style="text-decoration:none; text-align:center;">
+    <img src="/images/publications.jpg"
+         alt="Publications"
+         style="width:240px; height:170px; object-fit:cover; border-radius:12px;">
+    <p><strong>Publications</strong></p>
+  </a>
+
+  <a href="/teaching/" style="text-decoration:none; text-align:center;">
+    <img src="/images/teaching.jpg"
+         alt="Teaching"
+         style="width:240px; height:170px; object-fit:cover; border-radius:12px;">
+    <p><strong>Teaching</strong></p>
+  </a>
+
+</div>
 ## Welcome!
 
 Hello, and welcome to my website!
