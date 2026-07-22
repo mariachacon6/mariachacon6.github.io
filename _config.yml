@@ -24,13 +24,13 @@ repository               : "mariachacon6/mariachacon6.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Maria Alejandra Chacón B"
+  pronouns         : "she/her"  
+  bio              : "Industrial Microbiologist, researcher, and science educator with expertise in marine microbial ecology, coral microbiomes, biotechnology, molecular biology, and environmental conservation. My work combines scientific research, laboratory management, and teaching, with a focus on understanding microbial interactions that support coral resilience and reef restoration. I am passionate about inspiring the next generation of scientists while advancing research that contributes to marine conservation."
+  location         : "Panama city"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mariachaconb6@gmail.com" 
 
   # Academic websites
   academia         : # URL
